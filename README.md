@@ -28,4 +28,3 @@ To extract and analyze sales data using SQL queries inside Python and display in
 
 ---
 
-![Sales Revenue Chart](sales_chart.png)
